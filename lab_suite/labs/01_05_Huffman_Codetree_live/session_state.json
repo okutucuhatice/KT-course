@@ -1,0 +1,8 @@
+{
+  "row_0.widget_1": null,
+  "row_1.widget_2": "",
+  "row_1.widget_5": 1.0,
+  "row_2.widget_3": "evet",
+  "row_2.widget_4": "\n Char | Huffman code\n     \n----------------------\\    \n 'e'  |           1  \n 'v'  |          00  \n 't'  |          01",
+  "row_2.widget_6": "[1.00]\n    \u251c\u2500\u2500 [0.50]\n    \u2502   \u251c\u2500\u2500 'v' (0.25)\n    \u2502   \u2514\u2500\u2500 't' (0.25)\n    \u2514\u2500\u2500 'e' (0.50)"
+}

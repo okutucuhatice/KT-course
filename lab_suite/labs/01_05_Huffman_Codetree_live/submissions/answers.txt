@@ -1,0 +1,3 @@
+Hat die NiceGUI App funktioniert? Im Falle nein, welche Probleme traten auf?
+Die NiceGUI-App hat bei mir funktioniert. 
+Die App startete im Browser und nach der Texteingabe haben sich Codetabelle und Codebaum automatisch aktualisiert.
